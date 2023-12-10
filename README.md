@@ -1,2 +1,2 @@
-# Analog-Clock
+# Analog|Digital|Clock
 HTML | CSS | JavaScript
