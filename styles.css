@@ -1,0 +1,114 @@
+/* VARIABLES DEFINITION */
+:root{
+    --color-number: #BF973A;
+    --color-secondary: #433F3E;
+
+    --color-background: #081b29;
+    --color-transparent: transparent;
+
+    --color-hour: #0ef;
+    --color-min: #1f1c1c;
+    --color-sec: #433F3E;
+}
+
+/*--GENERAL STYLES--*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium';
+    color: var(--color-number);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--color-background);
+    overflow: hidden;
+}
+
+.container{
+    position: relative;
+}
+
+.clock{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    
+    border: 3px solid var(--color-hour);
+    box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.9);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bar-sec span b{
+    display: inline-block;
+    width: 2;
+    height: 10;
+    background: var(--color-hour);
+}
+
+.clock span{
+    position: absolute;
+    transform: rotate(calc(30deg * var(--i)));
+    inset: 12px;
+    text-align: center;
+}
+
+.clock span b{
+    transform: rotate(calc(-30deg * var(--i)));
+    display: inline-block;
+    font-size: 23px;
+    color: var(--color-hour);
+    text-shadow: 0 0 10px var(--color-hour);
+}
+
+
+.clock::before{
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: var(--color-number);
+    z-index: 2;
+}
+
+.clock::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background: var(--color-hour);
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px rgb(0, 0, 0, 0.9);
+}
+
+.hand{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hand i{
+    position: absolute;
+    background-color: var(--clr);
+    width: 4px;
+    height: var(--h);
+    border-radius: 8px;
+
+    display: inline-block;
+    transform-origin: bottom;
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--color-hour);
+}
+
