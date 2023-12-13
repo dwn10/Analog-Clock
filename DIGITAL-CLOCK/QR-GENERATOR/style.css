@@ -21,7 +21,7 @@
 }
 
 body{
-    background: var(--color-principal);
+    background: var(--color-background);
 }
 
 .container{

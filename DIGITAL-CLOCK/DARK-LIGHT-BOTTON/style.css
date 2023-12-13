@@ -11,7 +11,7 @@ body{
 }
 
 .dark{
-    background-color: rgb(57, 57, 57);
+    background-color: #081b29;
 }
 
 #button{
@@ -42,6 +42,6 @@ label::before{
 
 #button:checked + label::before{
     transform: translateX(100px);
-    background-color: rgb(57, 57, 57);
+    background-color: #081b29;
 
 }
