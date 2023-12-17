@@ -1,5 +1,13 @@
 # Projects created with the following technologies:
-HTML | CSS | JavaScript
+
+```javascript
+const Projects = {
+  	code: ["HTML", "CSS", "Javascript"],
+	technologies: {
+	devTool: ["Visual Studio Code"]
+	}
+};
+```
 
 ## ANALOG CLOCK
 Simple analog clock. The associated script is responsible for updating the position of the clock hands in real time.
