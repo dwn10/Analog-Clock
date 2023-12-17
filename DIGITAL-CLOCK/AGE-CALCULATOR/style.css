@@ -94,7 +94,8 @@
 }
 
 #result{
-    font-size: 14px;
+    top: -10px;
+    font-size: 15px;
     position: relative;
     left: 30px;
     text-shadow: 0 3px 5px rgba(0, 0, 0, 0.7);
@@ -102,4 +103,6 @@
 
 #result span{
     color: var(--color-click);
+    font-size: 23px;
+    text-shadow: 0 3px 5px rgba(0, 0, 0, 0.925);
 }
