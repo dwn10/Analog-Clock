@@ -82,9 +82,3 @@ a button to generate a new password and a button to copy the generated password 
 <p align='left'>
 <img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904989969854464/password-generator-1.gif?ex=65914f16&is=657eda16&hm=fb0b166e3b859a8da66d621a5533cc6e2e1295f6b5850caa7c6abe67a5c832f8&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
-
-## Summary in Spanish
-
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186368587343085728/dwn1080-portfolio-2023.gif?ex=6592fed8&is=658089d8&hm=4e75439e63e05b0369d70e231318401e2f26112c403e68c660c7e91e1e92374f&" width="588" height="588" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
