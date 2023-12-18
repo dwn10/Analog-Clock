@@ -8,6 +8,17 @@ const Projects = {
 	}
 };
 ```
+## Content
+<ul>
+	<li><a href="#">ANALOG CLOCK</a></li>
+	<li><a href="#">DIGITAL CLOCK</a></li>
+	<li><a href="#">CALCULATOR</a></li>
+	<li><a href="#">WEATHER APP</a></li>
+	<li><a href="#">QR GENERATOR</a></li>
+	<li><a href="#">LOGIN 2.0</a></li>
+	<li><a href="#">AGE CALCULATOR</a></li>
+	<li><a href="#">PASSWORD GENERATOR</a></li>
+</ul>
 
 ## ANALOG CLOCK
 Simple analog clock. The associated script is responsible for updating the position of the clock hands in real time.
