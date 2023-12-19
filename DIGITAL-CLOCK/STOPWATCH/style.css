@@ -1,0 +1,25 @@
+
+/* VARIABLES DEFINITION */
+
+:root{
+    --color-principal: #dbf1ee;
+    --color-secondary: #c4f5f6;
+
+    --color-background: #081b29;
+    --color-transparent: transparent;
+
+    --color-text: #292929;
+}
+
+/*--GENERAL STYLES--*/
+body{
+    background: var(--color-background);
+}
+
+.stopwatch{
+    width: 90%;
+    max-width: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)), url(images/Neon\ Glitch\ Twitch\ Banner\ \ \(8\).jpg);
+    background-size: cover;
+    background-position: center;
+}
