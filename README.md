@@ -19,6 +19,7 @@ const Projects = {
 	<li><a href="#">AGE CALCULATOR</a></li>
 	<li><a href="#">PASSWORD GENERATOR</a></li>
 	<li><a href="#">PASSWORD STRENGTH</a></li>
+	<li><a href="#">STOPWATCH</a></li>
 </ul>
 
 ## ANALOG CLOCK
@@ -90,4 +91,12 @@ The interface consists of a password input field, a submit button and a message 
 
 <p align='left'>
 <img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186550588129943652/password-strength.gif?ex=6593a859&is=65813359&hm=e15b440fa0b960799df3fcd175153638eae678c35848661352a1524c0b0708b9&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
+<p align="left">
+
+## STOPWATCH
+Simple stopwatch. The user interface consists of three buttons: "Play", "Stop" and "Reload". 
+The "Play" button starts the stopwatch, the "Stop" button stops it and the "Reload" button restarts.
+
+<p align='left'>
+<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186755169522819112/stopuhr.gif?ex=659466e1&is=6581f1e1&hm=deaf255fb7f16cf084ef9ba6011c02d586aac4a4c5243994424775c327523f25&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
