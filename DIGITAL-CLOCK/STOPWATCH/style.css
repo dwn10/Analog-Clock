@@ -2,8 +2,8 @@
 /* VARIABLES DEFINITION */
 
 :root{
-    --color-principal: #dbf1ee;
-    --color-secondary: #c4f5f6;
+    --color-principal: #0ef;
+    --color-secondary: #fff;
 
     --color-background: #081b29;
     --color-transparent: transparent;
@@ -12,14 +12,53 @@
 }
 
 /*--GENERAL STYLES--*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 body{
     background: var(--color-background);
+    font-family: 'Courier Prime', monospace;
 }
 
 .stopwatch{
     width: 90%;
     max-width: 600px;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)), url(images/Neon\ Glitch\ Twitch\ Banner\ \ \(8\).jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.534),rgba(0, 0, 0, 0.562)), url(images/Neon\ Glitch\ Twitch\ Banner\ \ \(8\).jpg);
     background-size: cover;
     background-position: center;
+    text-align: center;
+    padding: 40px 0;
+    color: var(--color-principal);
+    margin: 200px auto 0;
+    box-shadow: 0 10px 10px var(--color-principal);
+}
+
+.stopwatch h1{
+    margin-top: 80px;
+    font-size: 80px;
+    font-weight: 300;
+    text-shadow: 0 3px 5px var(--color-secondary);
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons img{
+    width: 40px;
+    margin: 0 20px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+}
+.buttons img:nth-child(2){
+    width: 60px;
+}
+.buttons img:hover{
+    background-color: var(--color-principal);
+    box-shadow: 0 3px 5px var(--color-secondary);
 }
