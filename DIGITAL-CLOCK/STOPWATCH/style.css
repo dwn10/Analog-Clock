@@ -8,7 +8,7 @@
     --color-background: #081b29;
     --color-transparent: transparent;
 
-    --color-text: #292929;
+    --color-numbers: #fd0505;
 }
 
 /*--GENERAL STYLES--*/
@@ -24,12 +24,12 @@ body{
 .stopwatch{
     width: 90%;
     max-width: 600px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.534),rgba(0, 0, 0, 0.562)), url(images/Neon\ Glitch\ Twitch\ Banner\ \ \(8\).jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.534),rgba(0, 0, 0, 0.562)), url(images/s-1.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
     padding: 40px 0;
-    color: var(--color-principal);
+    color: var(--color-numbers);
     margin: 200px auto 0;
     box-shadow: 0 10px 10px var(--color-principal);
 }
@@ -59,6 +59,6 @@ body{
     width: 60px;
 }
 .buttons img:hover{
-    background-color: var(--color-principal);
+    background-color: var(--color-numbers);
     box-shadow: 0 3px 5px var(--color-secondary);
 }
