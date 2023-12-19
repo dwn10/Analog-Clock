@@ -18,6 +18,7 @@ const Projects = {
 	<li><a href="#">LOGIN 2.0</a></li>
 	<li><a href="#">AGE CALCULATOR</a></li>
 	<li><a href="#">PASSWORD GENERATOR</a></li>
+	<li><a href="#">PASSWORD STRENGTH</a></li>
 </ul>
 
 ## ANALOG CLOCK
@@ -83,8 +84,10 @@ a button to generate a new password and a button to copy the generated password 
 <img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904989969854464/password-generator-1.gif?ex=65914f16&is=657eda16&hm=fb0b166e3b859a8da66d621a5533cc6e2e1295f6b5850caa7c6abe67a5c832f8&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
 
-## Summary in Spanish
+## PASSWORD STRENGTH
+The code creates a simple user interface to evaluate the strength of a password. 
+The interface consists of a password input field, a submit button and a message indicating the password strength.
 
 <p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186368587343085728/dwn1080-portfolio-2023.gif?ex=6592fed8&is=658089d8&hm=4e75439e63e05b0369d70e231318401e2f26112c403e68c660c7e91e1e92374f&" width="588" height="588" frameBorder="0" class="" allowFullScreen></img></p>
+<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186550588129943652/password-strength.gif?ex=6593a859&is=65813359&hm=e15b440fa0b960799df3fcd175153638eae678c35848661352a1524c0b0708b9&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
