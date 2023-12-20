@@ -103,7 +103,9 @@ The "Play" button starts the stopwatch, the "Stop" button stops it and the "Relo
 <p align="left">
 
 ## MUSIC PLAYER
-xxxxxxx?
+Minimalistic music player with basic controls such as play, pause, 
+forward and rewind. The player displays an image of the song and its title, 
+and also has a slider to adjust the playback progress.
 
 <p align='left'>
 <img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186928869534597172/music_player.gif?ex=659508a6&is=658293a6&hm=67a1635c2aea8c830d46392e0523fc1945cd50751698ab8156fcd403024dd004&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
