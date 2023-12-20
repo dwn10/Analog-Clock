@@ -10,17 +10,17 @@ const Projects = {
 ```
 ## Content
 <ul>
-	<li><a href="#">ANALOG CLOCK</a></li>
-	<li><a href="#">DIGITAL CLOCK</a></li>
-	<li><a href="#">CALCULATOR</a></li>
-	<li><a href="#">WEATHER APP</a></li>
-	<li><a href="#">QR GENERATOR</a></li>
-	<li><a href="#">LOGIN 2.0</a></li>
-	<li><a href="#">AGE CALCULATOR</a></li>
-	<li><a href="#">PASSWORD GENERATOR</a></li>
-	<li><a href="#">PASSWORD STRENGTH</a></li>
-	<li><a href="#">STOPWATCH</a></li>
-	<li><a href="#">MUSIC PLAYER</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/ANALOG-UHR">ANALOG CLOCK</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK">DIGITAL CLOCK</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/CALCULATOR">CALCULATOR</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/WEATHER-APP">WEATHER APP</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/QR-GENERATOR">QR GENERATOR</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/LOGIN%202.0">LOGIN 2.0</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/AGE-CALCULATOR">AGE CALCULATOR</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/PASSWORD-GENERATOR">PASSWORD GENERATOR</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/PASSWORD-STRENGTH">PASSWORD STRENGTH</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/STOPWATCH">STOPWATCH</a></li>
+	<li><a href="https://github.com/dwn10/Analog-Clock/tree/main/DIGITAL-CLOCK/MUSIC-PLAYER">MUSIC PLAYER</a></li>
 </ul>
 
 ## ANALOG CLOCK
