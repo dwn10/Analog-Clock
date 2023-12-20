@@ -20,6 +20,7 @@ const Projects = {
 	<li><a href="#">PASSWORD GENERATOR</a></li>
 	<li><a href="#">PASSWORD STRENGTH</a></li>
 	<li><a href="#">STOPWATCH</a></li>
+	<li><a href="#">MUSIC PLAYER</a></li>
 </ul>
 
 ## ANALOG CLOCK
@@ -99,4 +100,11 @@ The "Play" button starts the stopwatch, the "Stop" button stops it and the "Relo
 
 <p align='left'>
 <img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186755169522819112/stopuhr.gif?ex=659466e1&is=6581f1e1&hm=deaf255fb7f16cf084ef9ba6011c02d586aac4a4c5243994424775c327523f25&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
+<p align="left">
+
+## MUSIC PLAYER
+xxxxxxx?
+
+<p align='left'>
+<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186928869534597172/music_player.gif?ex=659508a6&is=658293a6&hm=67a1635c2aea8c830d46392e0523fc1945cd50751698ab8156fcd403024dd004&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
