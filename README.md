@@ -26,87 +26,65 @@ const Projects = {
 ## ANALOG CLOCK
 Simple analog clock. The associated script is responsible for updating the position of the clock hands in real time.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185895477300957224/clock-1.gif?ex=6591463a&is=657ed13a&hm=5355713374ca0a2be7647e640351e04c6e4ba2511f33277c999d53578c242539&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="https://media.discordapp.net/attachments/1185882189393575976/1185895477300957224/clock-1.gif?ex=65f6c9ba&is=65e454ba&hm=73bb610c3b2c0b4e18e110da9a34c6d96b446a1fd883e0a4894dc0c995bab4d6&=&width=1145&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137591658025030/analog-clock.JPG?ex=65fba812&is=65e93312&hm=cbd0b8b3dfe72d67bbb8ae5c68d7ac5cf3f4985a294016a23aa4e032f8d8df02&=&format=webp&width=1148&height=597" style="height: 50%; width:50%;"/></a>
 
 ## DIGITAL CLOCK
 Clock that displays the time in real time in 24-hour format. 
 The code uses JavaScript to update the hour, minutes and seconds.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185899469334642738/clock-2.gif?ex=659149f2&is=657ed4f2&hm=104ea08409b171cad4d154579ebb93c661e578d569cf84d9655807a72f2fa76e&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137592111144990/digital-clock.JPG?ex=65fba812&is=65e93312&hm=b5fc65168c83451a76db5904f5d22ccbf8b536ac1e495a0b032683062bc0f1a3&=&format=webp&width=1148&height=597" style="height: 50%; width:50%;"/></a>
 
 ## CALCULATOR
 Simple calculator that allows the user to enter mathematical expressions, 
 perform basic mathematical operations and display the result.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185900714992615444/calculator.gif?ex=65914b1b&is=657ed61b&hm=5c1db2ac6536d4830eb64a5d2eb730de26b2ee995222d044d4d1f1fa84dc116b&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137592488755240/calculator-1.JPG?ex=65fba812&is=65e93312&hm=8621a1e003ad477f20db1c68d8171fcf32f57f93c886e6e7a946ddde3f2a9c52&=&format=webp&width=1146&height=597" style="height: 50%; width:50%;"/></a>
 
 ## WEATHER APP
 An App that displays the current weather for a given city. 
 The application uses the OpenWeatherMap API to obtain weather information.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904744271708200/wetter.gif?ex=65914edc&is=657ed9dc&hm=efc55b4c4279784437b73dc391d6235b105a2fbbdee6105c50ea233a6679debe&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137592744611920/wetter-1.JPG?ex=65fba812&is=65e93312&hm=087cf0d8809bdb5b2f3b93107eb12037ff3b40fdb853ad953f875c2530296818&=&format=webp&width=1149&height=597" style="height: 50%; width:50%;"/></a>
 
 ## QR GENERATOR
 It is a simple form with a text field to enter text or URL and a button to generate a QR code. 
 The JavaScript code captures the user input, 
 generates a QR code and displays it in an image.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904780254654625/QR-generator.gif?ex=65914ee4&is=657ed9e4&hm=40ec371755d156e50e19fda10a097cbdcff224084ea0fa94ab7173745e7d23ff&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137593012912188/QR-generator-1.JPG?ex=65fba812&is=65e93312&hm=353de77389e1306c080e230cfe6b231b23b4adf20e6bb6ec6a19e1c219b5539e&=&format=webp&width=1149&height=597" style="height: 50%; width:50%;"/></a>
 
 ## LOGIN 2.0
 It is a form for user registration with a modern interface, simple login has two options: create a new account or login with an existing account.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904829730664478/login-2.0.gif?ex=65914ef0&is=657ed9f0&hm=86352fbacc3a41c06a16b1d9d84b9bff73b920a998c1ab1cfc66ef97f9c8d9fd&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137593264447549/login-2.0-1.JPG?ex=65fba812&is=65e93312&hm=d0b79c6d5fa575185a3a80dc8f5e3879b98da66209c6f601ef60332a784a9ae2&=&format=webp&width=1146&height=597" style="height: 50%; width:50%;"/></a>
 
 ## AGE CALCULATOR
 A simple age calculator that takes a date of birth as input and displays the user's current age.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904916657602600/age-calculator-2.gif?ex=65914f05&is=657eda05&hm=584741f0f62b503e4bd88e3d566ea5253f044a7528d67c6c407475c9f518eaea&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137593621225502/age-calculator-1.JPG?ex=65fba812&is=65e93312&hm=d65693cb00113d37c79f9c18bde5b73ced4fca62dc81e41c8b3edbac6475e732&=&format=webp&width=1146&height=597" style="height: 50%; width:50%;"/></a>
 
 ## PASSWORD GENERATOR
 This App generates a random 12-character password containing uppercase letters, lowercase letters, numbers and symbols. 
 The code uses JavaScript to create a user interface with a text field to display the generated password, 
 a button to generate a new password and a button to copy the generated password to the clipboard.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185904989969854464/password-generator-1.gif?ex=65914f16&is=657eda16&hm=fb0b166e3b859a8da66d621a5533cc6e2e1295f6b5850caa7c6abe67a5c832f8&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137777621147728/password-generator.png?ex=65fba83e&is=65e9333e&hm=d7979a9604f3940749093811e291af120814468118b5f9c403431854c16a4f1a&=&format=webp&quality=lossless&width=1145&height=597" style="height: 50%; width:50%;"/></a>
 
 ## PASSWORD STRENGTH
 The code creates a simple user interface to evaluate the strength of a password. 
 The interface consists of a password input field, a submit button and a message indicating the password strength.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186550588129943652/password-strength.gif?ex=6593a859&is=65813359&hm=e15b440fa0b960799df3fcd175153638eae678c35848661352a1524c0b0708b9&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137777885384714/password-strength-1.JPG?ex=65fba83e&is=65e9333e&hm=615de7341130e7449b2b6848b8f88a6aac1dfbbb04466e865e676467581bb538&=&format=webp&width=1060&height=597" style="height: 50%; width:50%;"/></a>
 
 ## STOPWATCH
 Simple stopwatch. The user interface consists of three buttons: "Play", "Stop" and "Reload". 
 The "Play" button starts the stopwatch, the "Stop" button stops it and the "Reload" button restarts.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186755169522819112/stopuhr.gif?ex=659466e1&is=6581f1e1&hm=deaf255fb7f16cf084ef9ba6011c02d586aac4a4c5243994424775c327523f25&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137778149363754/stopuhr-1.JPG?ex=65fba83e&is=65e9333e&hm=6a657b86416e804a16cda81dad8152e218e27e129a74bc898e8da09b22d58297&=&format=webp&width=1064&height=597" style="height: 50%; width:50%;"/></a>
 
 ## MUSIC PLAYER
 Minimalistic music player with basic controls such as play, pause, 
 forward and rewind. The player displays an image of the song and its title, 
 and also has a slider to adjust the playback progress.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1186928869534597172/music_player.gif?ex=659508a6&is=658293a6&hm=67a1635c2aea8c830d46392e0523fc1945cd50751698ab8156fcd403024dd004&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="vd"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215137778405474414/music_player-1.JPG?ex=65fba83e&is=65e9333e&hm=49e3ad150f75c31d6b6da480e32806572ff25e36148ad37542717e2df5f6b103&=&format=webp&width=1059&height=597" style="height: 50%; width:50%;"/></a>
