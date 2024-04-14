@@ -26,17 +26,13 @@ const Projects = {
 Simple analog clock. The associated script is responsible for updating the position of the clock hands in real time.
 `>> IMG + VIDEO <<`
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185895477300957224/clock-1.gif?ex=6591463a&is=657ed13a&hm=5355713374ca0a2be7647e640351e04c6e4ba2511f33277c999d53578c242539&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href=".\DIGITAL-CLOCK\readme-images\clock-1.gif"><img src=".\DIGITAL-CLOCK\readme-images\analog-clock.JPG" style="height: 80%; width:80%;"/></a>
 
 ## DIGITAL CLOCK
 Clock that displays the time in real time in 24-hour format. 
 The code uses JavaScript to update the hour, minutes and seconds.
 
-<p align='left'>
-<img src="https://cdn.discordapp.com/attachments/1185882189393575976/1185899469334642738/clock-2.gif?ex=659149f2&is=657ed4f2&hm=104ea08409b171cad4d154579ebb93c661e578d569cf84d9655807a72f2fa76e&" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
 
 ## CALCULATOR
 Simple calculator that allows the user to enter mathematical expressions, 
